@@ -24,11 +24,7 @@ class AMBOT():
         self.language = ['हिंदी', 'Nepali', 'English']
     def programming_languages(self):
         return [
-             'Java', 'C++'
-        ]
-    def markup_languages(self):
-        return [
-            'Python','HTML', 'Node.Js', 'PHP', 'SQL'
+             'Java', 'C++','Python','HTML', 'Node.Js', 'PHP', 'SQL'
         ]
     def developer_tools(self):
         return [

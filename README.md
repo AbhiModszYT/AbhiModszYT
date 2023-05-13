@@ -17,7 +17,7 @@
 <h1> <img src="https://telegra.ph/file/2daa6474d4118d7a21b23.jpg" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
 ```python3
-class Anonymous():
+class AMBOT():
     def __init__(self):
         self.name = ['AbhiModszYT]
         self.country = ['Nepal']

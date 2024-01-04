@@ -54,7 +54,7 @@ class AMBOT():
 
 <h1> <img src="https://raw.githubusercontent.com/mahtoanjali/MAHTOANJALIABOUT/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
 
-[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="AMBOT Spotify" width="75%" />](https://open.spotify.com/user/313v3enxy5fh76amfeuzzvorecx4)
+[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="MAHTO Spotify" width="75%" />](https://open.spotify.com/user/313v3enxy5fh76amfeuzzvorecx4)
 
 [<img src="https://github.com/mahtoanjali/MAHTOANJALIABOUT/blob/master/resources/hr.gif"/>](https://github.com/mahtoanjali)
 

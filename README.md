@@ -1,6 +1,6 @@
 [<img src="https://github.com/mahtoanjali/MAHTOANJALIABOUT/blob/master/resources/hr.gif"/>](https://github.com/mahtoanjali)
 
-<h1> <img src="https://telegra.ph/file/26aa5ce660ccb0ebdb38c.jpg" height="90px" width="80px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs AMBOT </h1>
+<h1> <img src="https://te.legra.ph/file/471ef129b9c1b479676fd.jpg" height="90px" width="80px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs AMBOT </h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/AbhiModszYT/count.svg" />
@@ -9,12 +9,12 @@
 [<img src="https://github.com/mahtoanjali/MAHTOANJALIABOUT/blob/master/resources/hr.gif"/>](https://github.com/mahtoanjali)
 
 <p align="center">
-<img src="https://telegra.ph/file/069987bee544c5405a982.jpg">
+<img src="https://te.legra.ph/file/471ef129b9c1b479676fd.jpg">
 </p>
 
 [<img src="https://raw.githubusercontent.com/mahtoanjali/MAHTOANJALIABOUT/master/resources/hr.gif"/>](https://github.com/mahtoanjali)
 
-<h1> <img src="https://telegra.ph/file/2daa6474d4118d7a21b23.jpg" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
+<h1> <img src="https://te.legra.ph/file/471ef129b9c1b479676fd.jpg" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
 ```python3
 class AMBOT():
@@ -46,7 +46,7 @@ class AMBOT():
 
 [<img src="https://github.com/mahtoanjali/MAHTOANJALIABOUT/blob/master/resources/hr.gif"/>](https://github.com/mahtoanjali)
 
-<h1> <img src="https://telegra.ph/file/b4fa01ff273d598fdecf3.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
+<h1> <img src="https://te.legra.ph/file/471ef129b9c1b479676fd.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
 [<img src="https://raw.githubusercontent.com/mahtoanjali/MAHTOANJALIABOUT/master/resources/telegram_icon.png" width="60px">](https://t.me/QUEENx_GOD) [<img src="https://raw.githubusercontent.com/mahtoanjali/MAHTOANJALIABOUT/master/resources/github_icon.png" width="60px">](https://github.com/AbhiModszYT) [<img src="https://raw.githubusercontent.com/mahtoanjali/MAHTOANJALIABOUT/master/resources/youtube_icon.png" width="60px">](https://youtube.com/@QUEENx_GOD) [<img src="https://github.com/mahtoanjali/MAHTOANJALIABOUT/blob/master/resources/insta_icon.png" width="60px">](https://instagram.com/@QUEENx_GOD)
 

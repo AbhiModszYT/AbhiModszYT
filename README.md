@@ -29,8 +29,8 @@ class AMBOT():
     def developer_tools(self):
         return [
             'GitHub', 'Stack Overflow', 'Docker', 'Heroku',
-            'MongoDB', 'MySQL', 'Azure', 'GG','ARM','MT-Manager',
-            'Android-Studio','Vs-Code'
+            'MongoDB', 'MySQL', 'Azure','MT-Manager',
+            'Android-Studio','Vs-Code','Frida Server','Hex Editer','Game Garudan','Apktool M','HManager','Apkanalyzer+','AntiSplit-G2','[BETA]BlackDex Max','CNFIX','App Cloner','Frida Injector','Termux','APK Editor','AIDE','Arm Pro','Modder Hub','Termius','DH HackBar','SignatureKill'
         ]
     def operating_system(self):
         return [

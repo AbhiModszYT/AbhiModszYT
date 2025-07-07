@@ -25,7 +25,7 @@ class AMBOT:
 
     def programming_languages(self):
         return [
-            'Java', 'C++', 'Python', 'HTML', 'Node.Js', 'PHP', 'SQL'
+            'Java', 'C##', 'Python', 'HTML', 'Js', 'PHP', 'SQL','lua Scripts','Java Scripts'
         ]
 
     def developer_tools(self):

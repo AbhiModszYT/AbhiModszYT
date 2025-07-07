@@ -36,6 +36,30 @@ class AMBOT():
         return [
             'Windows', 'Android', 'Linux'
         ]
+
+    def game_modding_info(self):
+        return {
+            'Game_Mods_&_Test_Servers': [
+                'War Robots',
+                'Mech Arena',
+                'Robots War Friam',
+                'Armor Attack'
+            ],
+            'Beta_Test_Builds': [
+                'War Robots Test Server',
+                'Mech Arena Dev Preview'
+            ],
+            'Lua_Scripts': [
+                'Garudan (custom Lua script support)',
+                'Advanced attack modules',
+                'Armor enhancement logic'
+            ],
+            'Modding_Focus': [
+                'Unlocking premium features',
+                'Bot automation (anti-detection)',
+                'Custom weapon balancing',
+                'Enhanced graphics & FPS boost'
+            ]
  ```
 
 [<img src="https://github.com/AbhiModszYT/AbhiModszYT/blob/master/resources/hr.gif"/>](https://github.com/AbhiModszYT)

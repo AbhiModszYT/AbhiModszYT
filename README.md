@@ -39,15 +39,14 @@ class AMBOT():
 
     def game_modding_info(self):
         return {
-            'Game_Mods_&_Test_Servers': [
+            'Game_Mods': [
                 'War Robots',
                 'Mech Arena',
-                'Robots War Friam',
+                'Robot Warfare',
                 'Armor Attack'
             ],
             'Beta_Test_Builds': [
-                'War Robots Test Server',
-                'Mech Arena Dev Preview'
+                'War Robots Test Server'
             ],
             'Lua_Scripts': [
                 'Garudan (custom Lua script support)',
@@ -58,7 +57,7 @@ class AMBOT():
                 'Unlocking premium features',
                 'Bot automation (anti-detection)',
                 'Custom weapon balancing',
-                'Enhanced graphics & FPS boost'
+                'Enhanced boost'
             ]
  ```
 

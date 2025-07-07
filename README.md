@@ -17,48 +17,58 @@
 <h1> <img src="https://telegra.ph/file/2daa6474d4118d7a21b23.jpg" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
 ```python3
-class AMBOT():
+class AMBOT:
     def __init__(self):
-        self.name = ['AbhiModszYT]
+        self.name = ['AbhiModszYT']
         self.country = ['Nepal']
         self.language = ['हिंदी', 'Nepali', 'English']
+
     def programming_languages(self):
         return [
-             'Java', 'C++','Python','HTML', 'Node.Js', 'PHP', 'SQL'
+            'Java', 'C++', 'Python', 'HTML', 'Node.Js', 'PHP', 'SQL'
         ]
+
     def developer_tools(self):
         return [
             'GitHub', 'Stack Overflow', 'Docker', 'Heroku',
-            'MongoDB', 'MySQL', 'Azure','MT-Manager',
-            'Android-Studio','Vs-Code','Frida Server','Hex Editer','Game Garudan','Apktool M','HManager','Apkanalyzer+','AntiSplit-G2','[BETA]BlackDex Max','CNFIX','App Cloner','Frida Injector','Termux','APK Editor','AIDE','Arm Pro','Modder Hub','Termius','DH HackBar','SignatureKill'
+            'MongoDB', 'MySQL', 'Azure', 'MT-Manager',
+            'Android-Studio', 'Vs-Code', 'Frida Server', 'Hex Editer',
+            'Game Garudan', 'Apktool M', 'HManager', 'Apkanalyzer+',
+            'AntiSplit-G2', '[BETA]BlackDex Max', 'CNFIX', 'App Cloner',
+            'Frida Injector', 'Termux', 'APK Editor', 'AIDE', 'Arm Pro',
+            'Modder Hub', 'Termius', 'DH HackBar', 'SignatureKill'
         ]
+
     def operating_system(self):
         return [
             'Windows', 'Android', 'Linux'
         ]
 
-    def game_modding_info(self):
-        return {
-            'Game_Mods': [
-                'War Robots',
-                'Mech Arena',
-                'Robot Warfare',
-                'Armor Attack'
-            ],
-            'Beta_Test_Builds': [
-                'War Robots Test Server'
-            ],
-            'Lua_Scripts': [
-                'Garudan (custom Lua script support)',
-                'Advanced attack modules',
-                'Armor enhancement logic'
-            ],
-            'Modding_Focus': [
-                'Unlocking premium features',
-                'Bot automation (anti-detection)',
-                'Custom weapon balancing',
-                'Enhanced boost'
-            ]
+    def game_modding_info(self):
+        return {
+            'Game_Mods': [
+                'War Robots',
+                'Mech Arena',
+                'Robot Warfare',
+                'Armor Attack'
+            ],
+            'Beta_Test_Builds': [
+                'War Robots Test Server'
+            ],
+            'Lua_Scripts': [
+                'Garudan (custom Lua script support)',
+                'Advanced attack modules',
+                'Armor enhancement logic'
+            ],
+            'Modding_Focus': [
+                'Unlocking premium features',
+                'Bot automation (anti-detection)',
+                'Custom weapon balancing',
+                'Enhanced boost'
+            ]
+        }
+
+                
  ```
 
 [<img src="https://github.com/AbhiModszYT/AbhiModszYT/blob/master/resources/hr.gif"/>](https://github.com/AbhiModszYT)

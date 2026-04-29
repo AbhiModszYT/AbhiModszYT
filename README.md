@@ -290,9 +290,9 @@
 
 <br>
 
-[![Telegram](https://img.shields.io/badge/💬_TELEGRAM-@AM__YTBOTT-2CA5E0?style=for-the-badge&labelColor=0d0d0d)](https://t.me/AM_YTBOTT)
+[![Telegram](https://img.shields.io/badge/💬_TELEGRAM-AbhiModszYT-2CA5E0?style=for-the-badge&labelColor=0d0d0d)](https://t.me/AbhiModsZz)
 [![GitHub](https://img.shields.io/badge/💻_GITHUB-AbhiModszYT-FFD700?style=for-the-badge&labelColor=0d0d0d)](https://github.com/AbhiModszYT)
-[![YouTube](https://img.shields.io/badge/▶️_YOUTUBE-@AbhiModsz-FF0000?style=for-the-badge&labelColor=0d0d0d)](https://youtube.com/@AbhiModsz)
+[![YouTube](https://img.shields.io/badge/▶️_YOUTUBE-@AbhiMods-FF0000?style=for-the-badge&labelColor=0d0d0d)](https://youtube.com/@abhimods)
 [![Instagram](https://img.shields.io/badge/📸_INSTAGRAM-@abhimodszyt-E4405F?style=for-the-badge&labelColor=0d0d0d)](https://instagram.com/abhimodszyt)
 
 <br>
